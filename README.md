@@ -1,5 +1,5 @@
 # 7 Days of Code - HTML e CSS
-![logotipos](./img/logotipos.webp)
+![logotipos](./IMG/logotipos.webp)
 
 Este projeto ganhou vida através do empolgante desafio "7 Days Of Code", uma jornada criada pela incrível Gi Moeller em parceria com a Alura.
 
